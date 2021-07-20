@@ -12,4 +12,7 @@ The purpose of this project is to build a web application to scrape recent artic
 5. MongoDB and Flask was used to store the data and ultimately create an HTML page to display the above findings. 
 6. Bootstrapping was used to make stylistic changes -- including decreasing button 'scrape new data' button size, adding borders to the table, making the hemisphere imaes thumbnails, and making the webpage responsive for multiple mobile devices. 
 
+### Results
 Below is an image of the final HTML page (Fig.1)
+<img width="404" alt="HTML_webpage_image" src="https://user-images.githubusercontent.com/45336910/126400755-6157d94b-a29f-4d0b-b8bf-0a0fa5437fa6.png">
+
